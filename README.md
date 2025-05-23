@@ -1,5 +1,6 @@
 # 🧪 Home Lab: Active Directory Setup Using Oracle VirtualBox
 
+
 This project documents my process of setting up a basic home lab to run **Active Directory** using **Windows Server** on **Oracle VirtualBox**. The goal was to create a learning environment to better understand Windows Server roles, Active Directory, DNS, and domain configurations in a virtualized setup.
 
 ![image](https://github.com/user-attachments/assets/feaedfe1-7d8e-4bb5-953a-7a81f15de258)
@@ -14,6 +15,9 @@ I built a local virtual lab using Oracle VirtualBox and a Windows Server ISO to 
 - Domain Controller promotion
 - DNS integration
 - User and Organizational Unit (OU) management
+
+  ![a4584f7c-94a8-4ddd-9219-171813bc27be](https://github.com/user-attachments/assets/f891b771-db7b-4b17-8413-dd1d8ce9f67f)
+
 
 ---
 
