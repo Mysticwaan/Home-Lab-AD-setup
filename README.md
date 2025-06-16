@@ -72,8 +72,3 @@ I built a local virtual lab using Oracle VirtualBox and a Windows Server ISO to 
 
 ---
 
-## 🔧 Next Steps
-
-- Add a Windows 10 client VM and join it to the domain
-- Explore Group Policy Objects (GPOs)
-- Set up a second Domain Controller for redundancy and fault tolerance
