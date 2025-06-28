@@ -16,9 +16,6 @@ I built a local virtual lab using Oracle VirtualBox and a Windows Server ISO to 
 - DNS integration
 - User and Organizational Unit (OU) management
 
-  ![a4584f7c-94a8-4ddd-9219-171813bc27be](https://github.com/user-attachments/assets/f891b771-db7b-4b17-8413-dd1d8ce9f67f)
-
-
 ---
 
 ## ✅ What I Did
