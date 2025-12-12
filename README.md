@@ -18,13 +18,6 @@ I built a local virtual lab using Oracle VirtualBox and a Windows Server ISO to 
 
 ---
 
-## ✅ What I Did
-
-### 🔽 Downloaded and Installed Tools
-
-- Installed [Oracle VirtualBox](https://www.virtualbox.org/)
-- Downloaded a Windows Server ISO (evaluation version from Microsoft)
-
 ### 💾 Created a Virtual Machine
 
 - Allocated 4 GB RAM, 40 GB virtual hard disk
