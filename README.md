@@ -54,11 +54,5 @@ I built a local virtual lab using Oracle VirtualBox and a Windows Server ISO to 
 ![image](https://github.com/user-attachments/assets/43c5c3ce-5e63-4cf9-b743-4437aceb2892)
 
 
-## 🧠 Lessons Learned
-
-- Snapshots are critical for quick recovery from misconfigurations
-- DNS configuration must be correct for AD to function
-- VirtualBox's networking modes (bridged/NAT) can simulate real-world setups
-
 ---
 
